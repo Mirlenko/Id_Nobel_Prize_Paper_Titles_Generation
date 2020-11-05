@@ -1,5 +1,5 @@
 # Id_Nobel_Prize_Paper_Titles_Generation
-## Solution for ODS Hackaton (3-10.10.2020) Id Nobel Prize Paper Titles Generation
+## Solution for ODS Hackaton (October 2020) Id Nobel Prize Paper Titles Generation
 
 В рамках Хакатона, организованного [ODS](https://ods.ai/) 3-10 октября 2020 было предложено следующее решение к следующей задаче:
 реализовать генератор тем [Шнобелевской премии](https://www.improbable.com/).
