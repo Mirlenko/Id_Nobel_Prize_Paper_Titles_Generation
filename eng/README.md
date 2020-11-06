@@ -28,7 +28,7 @@ The script is written in Python 3.7; the data is in English. All the relevant fr
 
 The data used for generation is the dataset of scientific papers titles ([STEM](https://www.kaggle.com/Cornell-University/arxiv)). The original dataset was cleaned first to present the data in tidy form: only titles are remained, the abbreviations were removed. As the result, 1.771.038 titles are used.
 
-The generator is based on the trigram (3-gram) model([source, in Russian](https://habr.com/ru/post/88514/)). The model presented in the article was re-built in the following parts:
+The generator is based on the trigram (3-gram) model ([source, in Russian](https://habr.com/ru/post/88514/)). The model presented in the article was re-built in the following parts:
 * the first word free choice was added to the logic;
 * in case of the desired first word missig in the corpus, the closest word in the meaning of the [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) is used;
 * the randomization part was improved (every word, starting from the second, is chosen randomly from the presented in the model pairs (word, probability) with respect to the previous word);
