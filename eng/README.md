@@ -1,5 +1,5 @@
-# Id_Nobel_Prize_Paper_Titles_Generation
-## Solution for ODS Hackathon (October 2020) Id Nobel Prize Paper Titles Generation
+# Ig_Nobel_Prize_Paper_Titles_Generation
+## Solution for ODS Hackathon (October 2020) Ig Nobel Prize Paper Titles Generation
 
 During the Hackathon, organized by [ODS](https://ods.ai/) in October 2020 the solution to the following problem was designed:
 to implement the [Ig Nobel Prize](https://www.improbable.com/) topics generator.
